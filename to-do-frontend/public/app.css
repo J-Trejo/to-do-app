@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Kavivanar|Permanent+Marker');
+
+body, h1{
+	font-family: 'Permanent Marker', sans-serif;
+	
+}
+
+label, button, option{
+	font-family: 'Kavivanar', cursive;
+}
+
+.done {
+  text-decoration: line-through;
+  color: grey;
+}
